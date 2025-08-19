@@ -1,0 +1,130 @@
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.heading{
+    background-image: url("demm.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+    height: 100%;
+    width: 100%;
+    display: block;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+.Bname{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 20px;
+    padding-top: 15px;
+    font-size: 30px;
+    color: white;
+    transition: font-size 0.4s;
+}
+
+.Bname:hover{
+    font-size: 40px;
+}
+
+
+.name{
+    padding-left: 30px;
+    color: white;
+    font-size: 17px;
+}
+
+.mid{
+    border-radius: 10px;
+    background-color:rgb(144, 57, 164); ;
+}
+
+.mid-h{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(238, 238, 238);
+    padding-left: 20px;
+    padding-top: 40px;
+    transition: font-size 0.4s;
+}
+
+.mid-h:hover{
+    font-size: 40px;
+}
+
+.para{
+    font-size: 20px;
+    color: rgb(238, 238, 238);
+    width: 500px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+.but{
+    background-color: rgb(226, 127, 230);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border:none;
+    font-size: 17px;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    margin-top: 10px;
+    margin-left: 16px;
+    margin-bottom: 20px;
+    transition: background-color 1s;
+}
+
+.but:hover{
+    background-color: rgb(9, 9, 9);
+}
+
+.h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+    display: block;
+    text-align: center;
+    background-color: rgb(226, 225, 225);
+    padding-top: 20px;
+    padding-bottom: 30px;
+    border-radius: 20px;
+    transition: padding-bottom 0.7s;
+}
+
+.h1:hover{
+    padding-bottom: 300px;
+
+}
+
+.h-h{
+    font-size: 20px;
+    color: rgb(191, 83, 242);
+    font-weight: bold;
+}
+
+.h-p{
+    color: rgb(86, 85, 85);
+    margin-top: 0px;
+    font-size: 16px;
+}
+
+.footer{
+    border-radius: 10px;
+    text-align: center;
+    display: block;
+    background-color: rgb(49, 49, 49);
+    color: white;
+}
+
+.lastline{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.s{
+    text-decoration: underline;
+    color: rgb(59, 131, 218);
+}
